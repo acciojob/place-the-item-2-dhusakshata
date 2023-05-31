@@ -6,7 +6,7 @@
 	justify-content:space-between;
 	padding:20px;
 	flex-wrap:wrap;
-	flex-direction:row;
+	flex-direction:row-reverse;
 
 	
 }
