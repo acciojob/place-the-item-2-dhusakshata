@@ -5,7 +5,7 @@
 	
 	
 	padding:20px;
-	flex-wrap:nowrap;
+	flex-wrap:wrap;
 	flex-direction:row-reverse;
 	justify-content:center;
 
